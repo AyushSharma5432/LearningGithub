@@ -1,2 +1,2 @@
 the session is going pretty well
-Hi I'm Shubham and this is my first contribution to this project.
+Hi I'm Shubham and this is my first contribution to this project. This is the correct version now.
